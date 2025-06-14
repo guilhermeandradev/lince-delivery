@@ -48,7 +48,6 @@ Vídeo de apresentação:
 - Chatbot flutuante no canto direito
 - Tela de contato e localização
 
-*(Inclua aqui prints ou GIFs mostrando o sistema em funcionamento)*
 
 ---
 

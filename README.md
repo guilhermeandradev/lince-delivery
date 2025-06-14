@@ -2,7 +2,6 @@
 
 Sistema web de delivery inteligente, com chatbot integrado (OpenAI) e atendimento automatizado.
 
-![Lince Delivery](./capa-lince.png) <!-- Se tiver uma imagem de capa, pode remover ou ajustar esse trecho -->
 
 ## ✨ Visão Geral
 

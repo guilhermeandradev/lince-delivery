@@ -1,0 +1,155 @@
+[
+  {
+    "carrinho": [
+      {
+        "nome": "Calabresa",
+        "preco": 24,
+        "img": "calabresa.jpg"
+      },
+      {
+        "nome": "Petit Gateau",
+        "preco": 14.9,
+        "img": "petit-gateau.jpg"
+      }
+    ],
+    "total": "38.90",
+    "usuario": null,
+    "data": "2025-06-11T00:00:25.748Z"
+  },
+  {
+    "carrinho": [
+      {
+        "nome": "Brownie",
+        "preco": 12,
+        "img": "brownie.jpg"
+      }
+    ],
+    "total": "12.00",
+    "usuario": null,
+    "data": "2025-06-11T00:09:58.129Z"
+  },
+  {
+    "carrinho": [
+      {
+        "nome": "Calabresa",
+        "preco": 24,
+        "img": "calabresa.jpg"
+      },
+      {
+        "nome": "Duplo Bacon",
+        "preco": 25,
+        "img": "duplo-bacon.jpg"
+      },
+      {
+        "nome": "Refrigerante Lata",
+        "preco": 6,
+        "img": "refrigerante.jpg"
+      }
+    ],
+    "total": "55.00",
+    "usuario": null,
+    "data": "2025-06-11T00:13:04.619Z"
+  },
+  {
+    "carrinho": [
+      {
+        "nome": "Mussarela",
+        "preco": 21.99,
+        "img": "mussarela.jpg"
+      },
+      {
+        "nome": "Duplo Bacon",
+        "preco": 25,
+        "img": "duplo-bacon.jpg"
+      },
+      {
+        "nome": "Temaki Salmão",
+        "preco": 22,
+        "img": "temaki-salmao.jpg"
+      },
+      {
+        "nome": "Brownie",
+        "preco": 12,
+        "img": "brownie.jpg"
+      },
+      {
+        "nome": "Suco Natural",
+        "preco": 8,
+        "img": "suco.jpg"
+      }
+    ],
+    "total": "88.99",
+    "usuario": {
+      "email": "joao"
+    },
+    "data": "2025-06-14T13:36:15.893Z"
+  },
+  {
+    "carrinho": [
+      {
+        "nome": "Calabresa",
+        "preco": 24,
+        "img": "calabresa.jpg"
+      },
+      {
+        "nome": "Duplo Bacon",
+        "preco": 25,
+        "img": "duplo-bacon.jpg"
+      },
+      {
+        "nome": "Temaki Salmão",
+        "preco": 22,
+        "img": "temaki-salmao.jpg"
+      },
+      {
+        "nome": "Petit Gateau",
+        "preco": 14.9,
+        "img": "petit-gateau.jpg"
+      },
+      {
+        "nome": "Suco Natural",
+        "preco": 8,
+        "img": "suco.jpg"
+      }
+    ],
+    "total": "93.90",
+    "usuario": {
+      "email": "joao123@gmail.com"
+    },
+    "data": "2025-06-14T13:51:30.026Z"
+  },
+  {
+    "carrinho": [
+      {
+        "nome": "Calabresa",
+        "preco": 24,
+        "img": "calabresa.jpg"
+      },
+      {
+        "nome": "Duplo Bacon",
+        "preco": 25,
+        "img": "duplo-bacon.jpg"
+      },
+      {
+        "nome": "Temaki Camarão",
+        "preco": 24,
+        "img": "temaki-camarao.jpg"
+      },
+      {
+        "nome": "Petit Gateau",
+        "preco": 14.9,
+        "img": "petit-gateau.jpg"
+      },
+      {
+        "nome": "Suco Natural",
+        "preco": 8,
+        "img": "suco.jpg"
+      }
+    ],
+    "total": "95.90",
+    "usuario": {
+      "email": "joao123@gmail.com"
+    },
+    "data": "2025-06-14T13:54:40.356Z"
+  }
+]
